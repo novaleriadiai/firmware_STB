@@ -1,0 +1,2 @@
+META-INF/com/google/android/updater-script
+echo "Simulasi update-binary firmware STB"
