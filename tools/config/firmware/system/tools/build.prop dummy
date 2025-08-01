@@ -1,0 +1,5 @@
+ro.product.model=STB-ZTE-B860H
+ro.build.version.release=9
+persist.sys.root_access=1
+ro.debuggable=1
+persist.service.adb.enable=1
