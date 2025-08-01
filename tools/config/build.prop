@@ -1,0 +1,5 @@
+ro.product.model=B860H
+ro.product.brand=ZTE
+ro.build.version.release=7.1.2
+ro.secure=0
+persist.sys.root_access=1
